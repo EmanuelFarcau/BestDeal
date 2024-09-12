@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>740353555951-qegckh0dokve9ppveke22js9l9muvbak.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.740353555951-qegckh0dokve9ppveke22js9l9muvbak</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>740353555951-ilde9vlvplsjn8asivon6c3bq7dfiok3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBnIEm5r0_L-XRNHcDX5Z5u0ocBpw6jFQY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>740353555951</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.dealHunter</string>
+	<key>PROJECT_ID</key>
+	<string>dealhunter-203a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dealhunter-203a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:740353555951:ios:279e3a0e960bb667b84a1a</string>
+</dict>
+</plist>

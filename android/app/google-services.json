@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "740353555951",
+    "project_id": "dealhunter-203a5",
+    "storage_bucket": "dealhunter-203a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740353555951:android:ac1fa2f535a70b05b84a1a",
+        "android_client_info": {
+          "package_name": "com.farcauemanuel.dealhunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740353555951-ilde9vlvplsjn8asivon6c3bq7dfiok3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farcauemanuel.dealhunter",
+            "certificate_hash": "565a409941c9a848d2093535661aaaf9573a5f5b"
+          }
+        },
+        {
+          "client_id": "740353555951-vnjgtbo655vhr8its3rquaiaf21t71bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.farcauemanuel.dealhunter",
+            "certificate_hash": "d85dc4eb6c4897689298cdf3f006e6a976a9d0b5"
+          }
+        },
+        {
+          "client_id": "740353555951-314m8q0ideis36etllc8hgeeotpdbaao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHakL2kdPMH3YF0lzCZAmcI1HsgG6PPyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740353555951-2i98rjlam63k5lt1p1k7rfsbuuopsmod.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
